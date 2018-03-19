@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="button_name">Flick Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="item2_menu_string">Item 2</string>
+    <string name="string">string</string>
+</resources>
